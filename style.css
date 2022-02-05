@@ -11,19 +11,19 @@ body{
     background-color: #30a14e;
     text-align: center;
     padding: 15px;
+    top:0px;
+    border:20px;
     margin: 1px;
-    border:20px
-    top: 0px;
 }
 article{
     line-height:20px ;
     text-align: justify;
-    width: 750px;
+    width: 600px;
 }
 aside{
     line-height: 20px;
     text-align: justify;
-    width: 750px;
+    width: 600px;
 }
 #rodape{
     font-style: italic;
