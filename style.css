@@ -2,7 +2,7 @@ body {
     background-color: rgb(253, 251, 251);
 
     font-family: Arial, Helvetica, sans-serif;
-    
+
     font-size: 15px;
 }
 #titulo {
@@ -21,19 +21,25 @@ body {
 
     margin: 1px;
 }
-article {
+.lado-esquerdo {
     line-height: 20px;
 
     text-align: justify;
 
-    width: 600px;
+    width: 500px;
+    float:left;
 }
-aside {
+.lado-direito {
     line-height: 20px;
 
     text-align: justify;
 
-    width: 600px;
+    width: 500px;
+
+    float:right
+}
+#licoes_aprendidas {
+    width: 500px
 }
 #rodape {
     font-style: italic;
