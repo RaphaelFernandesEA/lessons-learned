@@ -1,46 +1,40 @@
 body {
-    background-color: rgb(253, 251, 251);
-
-    font-family: Arial, Helvetica, sans-serif;
-
-    font-size: 15px;
+  background-color: rgb(253, 251, 251);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
 }
+
 #titulo {
-    color: aliceblue
+  color: aliceblue;
 }
+
 #cabecalho {
-    background-color: #30a14e;
-
-    text-align: center;
-
-    padding: 15px;
-
-    top: 0;
-
-    border: 20px;
-
-    margin: 1px;
+  background-color: #30a14e;
+  text-align: center;
+  padding: 15px;
+  top: 0;
+  border: 20px;
+  margin: 1px;
 }
+
 .lado-esquerdo {
-    line-height: 20px;
-
-    text-align: justify;
-
-    width: 500px;
-    float:left;
+  line-height: 20px;
+  text-align: justify;
+  width: 500px;
+  float: left;
 }
+
 .lado-direito {
-    line-height: 20px;
-
-    text-align: justify;
-
-    width: 500px;
-
-    float:right
+  line-height: 20px;
+  text-align: justify;
+  width: 500px;
+  float: right;
 }
+
 #licoes_aprendidas {
-    width: 500px
+  width: 500px;
 }
+
 #rodape {
-    font-style: italic;
+  font-style: italic;
 }
