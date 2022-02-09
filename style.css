@@ -6,14 +6,14 @@ body {
 
 #titulo {
   color: aliceblue;
-  text-align: center
+  text-align: center;
 }
 
 #cabecalho {
-  top:0;
-  position:fixed;
-  background-color: #30a14e;
-  width:1400px;
+  top: 0;
+  position: fixed;
+  background-color: green;
+  width: 1400px;
   border: 20px;
   margin: 1px;
   padding: 3px;
