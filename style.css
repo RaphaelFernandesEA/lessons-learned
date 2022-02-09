@@ -6,15 +6,17 @@ body {
 
 #titulo {
   color: aliceblue;
+  text-align: center
 }
 
 #cabecalho {
+  top:0;
+  position:fixed;
   background-color: #30a14e;
-  text-align: center;
-  padding: 15px;
-  top: 0;
+  width:1400px;
   border: 20px;
   margin: 1px;
+  padding: 3px;
 }
 
 .lado-esquerdo {
