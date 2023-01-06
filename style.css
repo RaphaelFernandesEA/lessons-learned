@@ -19,24 +19,58 @@ body {
   padding: 3px;
 }
 
+#minha_foto {
+  margin-top: 100px;
+}
+
+ol p {
+  font-weight: 800;
+}
+
+ul p {
+  font-weight: 800;
+}
+
 .lado-esquerdo {
   line-height: 20px;
   text-align: justify;
-  width: 500px;
-  float: left;
+  width: 45%;
+  display: inline-block;
+  /* margin-right: 20px; */
 }
 
 .lado-direito {
   line-height: 20px;
   text-align: justify;
-  width: 500px;
-  float: right;
+  width: 45%;
+  display: inline-block;
+  /* margin-left: 20px; */
+}
+
+.espaçamento-central {
+  width: 9%;
+  display: inline-block;
 }
 
 #licoes_aprendidas {
-  width: 500px;
+  display: inline-block;
+  width: 200px;
+}
+
+#licoes_a_aprender {
+  display: inline-block;
+  width: 200px;
 }
 
 #rodape {
+  background-color: green;
+  height: 60px;
+  text-align: center;
+}
+
+#rodape p {
   font-style: italic;
+  text-align: center;
+  display: inline-block;
+  margin-top: 30px;
 }
