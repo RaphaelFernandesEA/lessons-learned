@@ -36,7 +36,6 @@ ul p {
   text-align: justify;
   width: 45%;
   display: inline-block;
-  /* margin-right: 20px; */
 }
 
 .lado-direito {
@@ -44,7 +43,6 @@ ul p {
   text-align: justify;
   width: 45%;
   display: inline-block;
-  /* margin-left: 20px; */
 }
 
 .espaçamento-central {
