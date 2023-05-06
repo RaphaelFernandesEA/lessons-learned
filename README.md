@@ -1,13 +1,17 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Lessons Learned
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## 📝 Sobre o Projeto
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Esse é o primeiro Projeto desenvolvido enquanto estudante da [Trybe](https://www.betrybe.com/), onde apartir de um modelo, contruímos uma página sobre os aprendizados a serem vistos durante o curso. 
+
+O projeto serviu para exercitarmos a construção de páginas HTML semânticas e posionamento dos seus elementos corretamente.
+
+---
+
+## 💾 Tecnologias usadas
+
+Para desenvolvimento foi utilizado HTML e CSS apenas.
+
+## ⚡️ Execução
+
+Para vizualizar a página em seu navegador, basta copiar os arquivos e com o arquivo index.html aberto no VSCode, utilizar a ferramenta liveServer.
